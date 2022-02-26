@@ -16,7 +16,6 @@ public class Cinema {
     static int totalProfit;
 
     public static void main(String[] args) {
-        // Write your code here
         boolean exit = false;
 
         System.out.println("Enter the number of rows:");
